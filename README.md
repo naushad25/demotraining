@@ -1,1 +1,1 @@
-# demotraining for git
+# demo training for git
